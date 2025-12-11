@@ -19,10 +19,8 @@ Model    - *CNN*,*Tensorflow*,*Data Augmentation*<br>
 Dataset  - *[Plant Village Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)*<br><br>
 
 **Submitted By :** <br>
-*Aminul Ahsan Adil*<br>
-*2021331022*<br><br>
-*Fardin Hasan Samy*<br>
-*2021331049*<br><br>
+*Aminul Ahsan Adil(2021331022)*<br>
+*Fardin Hasan Samy(2021331049)*<br><br>
 
 **Instructor :**<br>
 *Mehedi Hasan Rumi*<br>
