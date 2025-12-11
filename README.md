@@ -4,7 +4,7 @@
 ![2021331022](https://img.shields.io/badge/Reg%20No-2021331022-green)
 ![Fardin Hasan Samy](https://img.shields.io/badge/Name-Fardin%20Hasan%20Samy-blue)
 ![2021331049](https://img.shields.io/badge/Reg%20No-2021331049-green)
-![License](https://img.shields.io/github/license/adilahsan2122/Web-Tech-Project)
+![MIT](https://img.shields.io/github/license/adilahsan2122/Web-Tech-Project)
 ![Last Commit](https://img.shields.io/github/last-commit/adilahsan2122/Web-Tech-Project)
 ![Issues](https://img.shields.io/github/issues/adilahsan2122/Web-Tech-Project)
 ![Forks](https://img.shields.io/github/forks/adilahsan2122/Web-Tech-Project)
@@ -15,7 +15,8 @@ This repo contains all the necessary file and information about our **Web Tech P
 **Technology Stack**<br>
 Frontend - *React JS*,*React Native*<br>
 Backend  - *FastApi*,*tf serving*<br>
-Dataset  - [Plant Village Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)<br><br>
+Model    - *CNN*,*Tensorflow*,*Data Augmentation*<br>
+Dataset  - *[Plant Village Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)*<br><br>
 
 **Submitted By :** <br>
 *Aminul Ahsan Adil*<br>
