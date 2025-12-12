@@ -10,7 +10,7 @@
 ![Forks](https://img.shields.io/github/forks/adilahsan2122/Web-Tech-Project)
 ![Stars](https://img.shields.io/github/stars/adilahsan2122/Web-Tech-Project)
 
-This repo contains all the necessary file and information about our **Web Tech Project** course taken on **3/1**. In this Project, we build an system(model) which will predict *potato disease* based on their images.The motivation behind the project is lies on **Data Science** course which we taken on 2/2. From this course , we knew about CNN(convolution Neural Network) and seems interesting to us. We decided to do a project on this.<br><br>
+This repo contains all the necessary file and information about our **Web Tech Project** course taken on **3/1**. In this Project, we build an system(model) which will predict *potato disease* based on their images. We will extend this project that is we will add more crops like tomato,rice etc. which are common in our country . The motivation behind the project is lies on **Data Science** course which we taken on 2/2. From this course , we knew about CNN(convolution Neural Network) and seems interesting to us. We decided to do a project on this.<br><br>
 
 **Technology Stack**<br>
 Frontend - *React JS*,*React Native*<br>
